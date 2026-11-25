@@ -1,5 +1,5 @@
 
-# LinkUp
+# LinkUp 
 
 thank you for reading this readme \
 a student made project
